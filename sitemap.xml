@@ -1,5 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url><loc>https://bureau.megasolv.store/</loc><xhtml:link rel="alternate" hreflang="fr-MA" href="https://bureau.megasolv.store/"/><xhtml:link rel="alternate" hreflang="ar-MA" href="https://bureau.megasolv.store/ar/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://bureau.megasolv.store/"/></url>
-  <url><loc>https://bureau.megasolv.store/ar/</loc><xhtml:link rel="alternate" hreflang="fr-MA" href="https://bureau.megasolv.store/"/><xhtml:link rel="alternate" hreflang="ar-MA" href="https://bureau.megasolv.store/ar/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://bureau.megasolv.store/"/></url>
+<?xml version='1.0' encoding='utf-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://bureau.megasolv.store/</loc>
+    <lastmod>2026-09-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr-MA" href="https://bureau.megasolv.store/" />
+    <xhtml:link rel="alternate" hreflang="ar-MA" href="https://bureau.megasolv.store/ar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bureau.megasolv.store/" />
+    <image:image>
+      <image:loc>https://bureau.megasolv.store/assets/images/hero-pack-bundle.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bureau.megasolv.store/assets/images/laptop-stand-gallery.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bureau.megasolv.store/assets/images/phone-holder-gallery.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bureau.megasolv.store/assets/images/lifestyle-bundle-gallery.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://bureau.megasolv.store/ar/</loc>
+    <lastmod>2026-09-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr-MA" href="https://bureau.megasolv.store/" />
+    <xhtml:link rel="alternate" hreflang="ar-MA" href="https://bureau.megasolv.store/ar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bureau.megasolv.store/" />
+    <image:image>
+      <image:loc>https://bureau.megasolv.store/assets/images/hero-pack-bundle.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bureau.megasolv.store/assets/images/laptop-stand-gallery.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bureau.megasolv.store/assets/images/phone-holder-gallery.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bureau.megasolv.store/assets/images/lifestyle-bundle-gallery.webp</image:loc>
+    </image:image>
+  </url>
 </urlset>
